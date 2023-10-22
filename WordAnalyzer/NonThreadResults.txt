@@ -1,0 +1,21 @@
+Time taken for operation X: 5,0116 ms
+
+1. Number of words: 6084
+Time taken for operation 1: 0,0003 ms
+
+2. Shortest word: Той
+Time taken for operation 2: 0,1393 ms
+
+3. Longest word: четиринайсетгодишно
+Time taken for operation 3: 0,0822 ms
+
+4. Average word length: 6
+Time taken for operation 4: 0,0746 ms
+
+5. Five most common words: Гералт, беше, това, вампирката, Велерад
+Time taken for operation 5: 0,7713 ms
+
+6. Five least common words: АНДЖЕЙ, САПКОВСКИ, ВЕЩЕР, север, откъм
+Time taken for operation 6: 0,749 ms
+
+//Operation X is the method that gets words from the text

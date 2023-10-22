@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WordAnalyzer_MultiThread/1.0.0": {
+        "runtime": {
+          "WordAnalyzer_MultiThread.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordAnalyzer_MultiThread/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
